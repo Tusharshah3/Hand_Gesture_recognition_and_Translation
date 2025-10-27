@@ -1,5 +1,8 @@
-opencv-python>=4.7.0
-mediapipe>=0.10.0
-numpy>=1.25.0
-pandas>=2.1.0
-pyttsx3>=2.90
+opencv-python
+mediapipe
+numpy
+pandas
+pyttsx3
+luma.oled
+Pillow
+picamera2
