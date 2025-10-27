@@ -52,7 +52,7 @@ Built on **MediaPipe** for high-fidelity hand landmark detection, with a **custo
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/siddharthofficial/Hand-Gesture-Recognition-And-Voice-Translator.git
+   git clone https://github.com/Tusharshah3/Hand_Gesture_recognition_and_Translation.git
    cd Hand-Gesture-Recognition-And-Voice-Translator
    
 2. **Enable Interfaces on Raspberry Pi**  
